@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a student at Vanderbilt University majoring in Computer Science and Applied Mathematics and minoring in Engineering Management and Spanish for the Professions. I am currently exploring all types of software development! I am interested in cybersecurity and I am currently working on improving my full-stack development skills.
+
+In my personal time, I enjoy reading historical fiction, listening to any of Taylor Swift's albums, or watching a Philly sports game! Also, I love mint chocolate chip ice cream.
+
 <!--
 **haleykahn14/haleykahn14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
