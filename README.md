@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a student at Vanderbilt University majoring in Computer Science and Applied Mathematics and minoring in Engineering Management and Spanish for the Professions. 
+I am a student at Vanderbilt University majoring in Computer Science and minoring in Engineering Management and Spanish for the Professions. 
 
 In my personal time, I enjoy reading historical fiction, listening to any of Taylor Swift's albums, or watching a Philly sports game! Also, I love mint chocolate chip ice cream.
 
